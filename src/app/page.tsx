@@ -1,8 +1,11 @@
-import Image from "next/image";
+import { db } from "@/lib/db";
 
-export default function Home() {
+
+export default async function Home() {
+
+  await db.set('Hello','Hello')
   return (
-    <div className="text-white">
+    <div className="text-black">
       Hello
     </div>
   );
