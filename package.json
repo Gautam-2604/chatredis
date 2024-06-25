@@ -18,6 +18,8 @@
     "axios": "^1.7.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "date-fn": "^0.0.2",
+    "date-fns": "^3.6.0",
     "lucide-react": "^0.396.0",
     "next": "14.2.4",
     "next-auth": "^4.24.7",
@@ -27,6 +29,7 @@
     "react-dom": "^18",
     "react-hook-form": "^7.52.0",
     "react-hot-toast": "^2.4.1",
+    "react-textarea-autosize": "^8.5.3",
     "tailwind-merge": "^2.3.0",
     "tailwindcss-animate": "^1.0.7",
     "zod": "^3.23.8"
